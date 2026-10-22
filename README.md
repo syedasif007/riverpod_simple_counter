@@ -1,4 +1,4 @@
-# riverpod_v1
+# riverpod simple counter
 
 A new Flutter project.
 
